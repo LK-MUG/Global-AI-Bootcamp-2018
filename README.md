@@ -1,7 +1,7 @@
 # Global AI BootCamp 2018 | Letterkenny, Ireland  
 
 
-### Welcome to Global AI BootCamp 2018p - Letterkenny Chapter Event
+### Welcome to Global AI BootCamp 2018 - Letterkenny Chapter Event
 
 Following the success of last year, Global AI Bootcamp now becomes an annual event.
 
