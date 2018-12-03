@@ -24,7 +24,7 @@ Watch the teaser from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Microsoft M
 
 ### [REGISTRATION URL](https://www.meetup.com/lk-mug/events/255125829/)
 
-### [Event Website](http://www.bootcamplk.com")
+### [www.bootcamplk.com](http://www.bootcamplk.com")
 
 ![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/global-ai-bootcamp-flyer.PNG "Global")
 ![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/global-ai-bootcamp-agenda.PNG "Agenda")
