@@ -12,7 +12,7 @@ It is a free, one-day, hands-on training event led by Microsoft MVPs with suppor
 2. All Microsoft/Azure AI key technologies and products will be discussed
 3. Developers in Letterkenny and surrounding places are invited to attend the bootcamp to learn the latest on Azure Bot Services, Azure Cognitive Services, Azure Machine Learning and apply what you learn to your future projects.
 
-Watch the teaser from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Microsoft MVPs on 2018 Global AI Bootcamp.
+Watch the teaser from [Seth Juarez](https://www.youtube.com/watch?v=GdhWVrSDXvk), [Jennifer Marsman](https://www.youtube.com/watch?v=_OoiLIbN20g) and Microsoft MVPs on all [2018 Global AI Bootcamp site](https://www.globalaibootcamp.com).
 
 ### Session Details ###
 *  When: Saturday, December 15th' 2018
@@ -24,7 +24,7 @@ Watch the teaser from [Jeff Teper](https://youtu.be/V65ASGgZksw) and Microsoft M
 
 ### [REGISTRATION URL](https://www.meetup.com/lk-mug/events/255125829/)
 
-### [www.bootcamplk.com](http://www.bootcamplk.com")
+### [www.bootcamplk.com](http://www.bootcamplk.com")    |   [Global AI Bootcamp Site](https://www.globalaibootcamp.com) to know about all other venues
 
 ![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/global-ai-bootcamp-flyer.PNG "Global")
 ![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/global-ai-bootcamp-agenda.PNG "Agenda")
