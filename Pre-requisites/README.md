@@ -3,7 +3,7 @@
 This readme covers necessary steps to be taken care to help you through smooth workshop. 
 
 
-# Set up your Azure Account
+# Set up your Azure FREE Account
 
 ### Setting up your Azure Account - follow the steps below
 You may activate an Azure free trial at [https://azure.microsoft.com/en-us/free/]("https://azure.microsoft.com/en-us/free/").
@@ -11,7 +11,22 @@ If you have been given an Azure Pass to complete this lab, you may go to [http:/
 
 # Set up Development Environment
 
-1. Install [Visual Studio 2017 Community Edition](https://visualstudio.microsoft.com/vs/community/)  and [Visual Studio Tools for AI](http://aka.ms/VSToolsforAI)
-2. Install [Visual Studio Code](https://code.visualstudio.com/) and [Visual Studio Code Tools for AI](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai) : [Installation Guide](https://github.com/Microsoft/vscode-tools-for-ai/blob/master/docs/installation.md)
+## Install developer tools
+
+### Hands-on-lab | Prerequisites ###
+
+The following are required to complete this hands-on lab:
+
+- An active Microsoft Azure subscription. If you don't have one, [sign up for a free trial](http://aka.ms/WATK-FreeTrial).
+- [NodeJS LTS version](https://nodejs.org)
+- [Visual Studio Code](http://code.visualstudio.com) 
+- [Git](https://git-scm.com) for Windows, macOS, or Linux
+- The [Microsoft Bot Framework Emulator](https://emulator.botframework.com/)
+- [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
+
+### Optional Installation 
+
+1. Install [Visual Studio Code Tools for AI](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-ai) : [Installation Guide](https://github.com/Microsoft/vscode-tools-for-ai/blob/master/docs/installation.md)
+2. Install [Visual Studio 2017 Community Edition](https://visualstudio.microsoft.com/vs/community/)  and [Visual Studio Tools for AI](http://aka.ms/VSToolsforAI)
 
 
