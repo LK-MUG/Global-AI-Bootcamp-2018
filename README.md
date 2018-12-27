@@ -36,3 +36,6 @@ Watch the teaser from [Seth Juarez](https://www.youtube.com/watch?v=GdhWVrSDXvk)
 ### Greetings from Organizers
 ![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/Images/global-ai-bootcamp-core.PNG "Core Team")
 
+### Speacial Thanks to our Sponsors
+![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/Images/global-ai-bootcamp-sponsors.PNG "Sponsors")
+
