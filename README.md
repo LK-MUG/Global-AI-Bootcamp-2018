@@ -27,5 +27,9 @@ Watch the teaser from [Seth Juarez](https://www.youtube.com/watch?v=GdhWVrSDXvk)
 ### [www.bootcamplk.com](http://www.bootcamplk.com")    |   [Global AI Bootcamp Site](https://www.globalaibootcamp.com) to know about all other venues
 
 ![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/global-ai-bootcamp-flyer.PNG "Global")
+![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/Images/global-ai-bootcamp-welcome.PNG "Welcome")
 ![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/global-ai-bootcamp-agenda.PNG "Agenda")
+![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/Images/global-ai-bootcamp-keynote.PNG "Keynote")
+![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/Images/global-ai-bootcamp-speakers.PNG "Speakers")
+![picture alt](https://raw.githubusercontent.com/LK-MUG/Global-AI-Bootcamp-2018/master/Images/global-ai-bootcamp-coc.PNG "Code of Conduct")
 
